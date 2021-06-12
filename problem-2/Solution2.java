@@ -25,7 +25,8 @@ case #2
 
  */
 
-
+// Assuming its accumulation vertically and horizontally every number
+// along the path from edge to center
 public class Solution2 {
   public static void main(String[] args) {
     int [][] arr = new int[][] {{7, 3, 4}, {8, 6, 9},{1, 2, 5}};
